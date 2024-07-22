@@ -1,0 +1,270 @@
+### Day 1-3: Arrays
+#### Topics:
+- Basics of Arrays
+- Two-Pointer Technique
+- Sliding Window Technique
+- Prefix Sum Technique
+
+#### Questions:
+- **Easy:**
+  1. Find the largest element in an array.
+  2. Remove duplicates from a sorted array.
+  3. Rotate an array by one position.
+  4. Merge two sorted arrays.
+  5. Find the second largest element in an array.
+
+- **Medium:**
+  1. Subarray with given sum.
+  2. Largest subarray with equal number of 0s and 1s.
+  3. Find the "Kth" max and min element of an array.
+  4. Majority Element.
+  5. Sort an array of 0s, 1s, and 2s.
+  6. Longest Consecutive Sequence.
+  7. Best Time to Buy and Sell Stock.
+  8. Subarray Sum Equals K.
+  9. Product of Array Except Self.
+  10. Minimum Size Subarray Sum.
+
+- **Hard:**
+  1. Trapping Rain Water.
+  2. Maximum Product Subarray.
+  3. Median of Two Sorted Arrays.
+  4. Maximum Sum Rectangle in a 2D Matrix.
+  5. Find the Duplicate Number.
+
+### Day 4-6: Strings
+#### Topics:
+- Basic String Operations
+- String Matching Algorithms
+- Palindromes
+- Anagram Problems
+
+#### Questions:
+- **Easy:**
+  1. Reverse a string.
+  2. Check if a string is a palindrome.
+  3. Implement strStr().
+  4. Count and say.
+  5. Longest Common Prefix.
+
+- **Medium:**
+  1. Longest Substring Without Repeating Characters.
+  2. Longest Palindromic Substring.
+  3. String to Integer (atoi).
+  4. Group Anagrams.
+  5. Valid Anagram.
+  6. Minimum Window Substring.
+  7. Find All Anagrams in a String.
+  8. Longest Repeating Character Replacement.
+  9. Decode Ways.
+  10. Regular Expression Matching.
+
+- **Hard:**
+  1. Wildcard Matching.
+  2. Palindrome Partitioning II.
+  3. Word Break II.
+  4. Edit Distance.
+  5. Scramble String.
+
+### Day 7-8: Linked Lists
+#### Topics:
+- Singly Linked List
+- Doubly Linked List
+- Circular Linked List
+
+#### Questions:
+- **Easy:**
+  1. Reverse a Linked List.
+  2. Merge Two Sorted Lists.
+  3. Detect Loop in a Linked List.
+  4. Delete Node in a Linked List.
+  5. Remove Duplicates from Sorted List.
+
+- **Medium:**
+  1. Add Two Numbers.
+  2. Remove N-th Node From End of List.
+  3. Rotate List.
+  4. Intersection of Two Linked Lists.
+  5. Flatten a Multilevel Doubly Linked List.
+  6. Copy List with Random Pointer.
+  7. Swap Nodes in Pairs.
+  8. Reorder List.
+  9. Linked List Cycle II.
+  10. LRU Cache.
+
+- **Hard:**
+  1. Reverse Nodes in k-Group.
+  2. Merge k Sorted Lists.
+  3. Reverse Linked List II.
+  4. Palindrome Linked List.
+  5. Clone a Linked List with Random Pointers.
+
+### Day 9-10: Stacks and Queues
+#### Topics:
+- Basic Operations
+- Applications
+
+#### Questions:
+- **Easy:**
+  1. Implement Stack using Arrays.
+  2. Implement Queue using Arrays.
+  3. Valid Parentheses.
+  4. Min Stack.
+  5. Implement Queue using Stacks.
+
+- **Medium:**
+  1. Next Greater Element I.
+  2. Next Greater Element II.
+  3. Daily Temperatures.
+  4. Evaluate Reverse Polish Notation.
+  5. Simplify Path.
+  6. Largest Rectangle in Histogram.
+  7. Maximal Rectangle.
+  8. Asteroid Collision.
+  9. Basic Calculator II.
+  10. Exclusive Time of Functions.
+
+- **Hard:**
+  1. Basic Calculator.
+  2. Trapping Rain Water.
+  3. Remove Duplicate Letters.
+  4. Sliding Window Maximum.
+  5. LFU Cache.
+
+### Day 11-12: Trees
+#### Topics:
+- Binary Trees
+- Binary Search Trees
+- Tree Traversals
+- Balanced Trees
+
+#### Questions:
+- **Easy:**
+  1. Invert a Binary Tree.
+  2. Symmetric Tree.
+  3. Maximum Depth of Binary Tree.
+  4. Binary Tree Level Order Traversal.
+  5. Validate Binary Search Tree.
+
+- **Medium:**
+  1. Lowest Common Ancestor of a Binary Tree.
+  2. Construct Binary Tree from Preorder and Inorder Traversal.
+  3. Binary Tree Zigzag Level Order Traversal.
+  4. Kth Smallest Element in a BST.
+  5. Path Sum II.
+  6. Flatten Binary Tree to Linked List.
+  7. Binary Tree Right Side View.
+  8. Binary Search Tree Iterator.
+  9. Serialize and Deserialize Binary Tree.
+  10. Recover Binary Search Tree.
+
+- **Hard:**
+  1. Maximum Path Sum.
+  2. Binary Tree Cameras.
+  3. Unique Binary Search Trees II.
+  4. Count of Smaller Numbers After Self.
+  5. Binary Tree Maximum Path Sum.
+
+### Day 13: Graphs
+#### Topics:
+- Graph Representations
+- BFS and DFS
+- Shortest Path Algorithms
+
+#### Questions:
+- **Easy:**
+  1. Find the Town Judge.
+  2. Flood Fill.
+  3. Number of Islands.
+  4. Clone Graph.
+  5. Maximum Depth of N-ary Tree.
+
+- **Medium:**
+  1. Course Schedule.
+  2. Pacific Atlantic Water Flow.
+  3. Surrounded Regions.
+  4. Word Ladder.
+  5. Reconstruct Itinerary.
+  6. Alien Dictionary.
+  7. Number of Connected Components in an Undirected Graph.
+  8. Path with Maximum Probability.
+  9. Redundant Connection.
+  10. Critical Connections in a Network.
+
+- **Hard:**
+  1. Minimum Cost to Connect Sticks.
+  2. Shortest Path in Binary Matrix.
+  3. Find the City With the Smallest Number of Neighbors at a Threshold Distance.
+  4. The Maze II.
+  5. Longest Increasing Path in a Matrix.
+
+### Day 14: Heaps and Hash Tables
+#### Topics:
+- Heaps (Min-Heap, Max-Heap)
+- Hash Tables
+
+#### Questions:
+- **Easy:**
+  1. Design HashMap.
+  2. Design HashSet.
+  3. Top K Frequent Elements.
+  4. Sort Characters By Frequency.
+  5. Find All Numbers Disappeared in an Array.
+
+- **Medium:**
+  1. Kth Largest Element in an Array.
+  2. Sort Array by Increasing Frequency.
+  3. Sort Characters By Frequency.
+  4. Task Scheduler.
+  5. Distant Barcodes.
+  6. Design Twitter.
+  7. Design Snake Game.
+  8. Design Hit Counter.
+  9. Insert Delete GetRandom O(1).
+  10. Longest Substring with At Most K Distinct Characters.
+
+- **Hard:**
+  1. Median of Two Sorted Arrays.
+  2. Sliding Window Maximum.
+  3. Find Median from Data Stream.
+  4. The Skyline Problem.
+  5. Employee Free Time.
+
+### Day 15: Dynamic Programming
+#### Topics:
+- Basics of Dynamic Programming
+- 0/1 Knapsack Problem
+- Longest Common Subsequence
+
+#### Questions:
+- **Easy:**
+  1. Climbing Stairs.
+  2. Min Cost Climbing Stairs.
+  3. House Robber.
+  4. Coin Change 2.
+  5. Best Time to Buy and Sell Stock.
+
+- **Medium:**
+  1. Longest Increasing Subsequence.
+  2. Partition Equal Subset Sum.
+  3. Target Sum.
+  4. Longest Palindromic Subsequence.
+  5. Maximum Length of Repeated Subarray.
+  6. Edit Distance.
+  7. Palindromic Substrings.
+  8. Decode Ways.
+  9. Unique Paths II.
+  10. Combination Sum IV.
+
+- **Hard:**
+  1. Burst Balloons.
+  2. Interleaving String.
+  3. Scramble String.
+  4. Maximum Profit in Job Scheduling.
+  5. Minimum Cost to Merge Stones.
+
+### Additional Tips:
+1. **Daily Practice:** Dedicate at least 3-4 hours daily to solving problems.
+2. **Understand Patterns:** Focus on understanding problem patterns and common techniques.
+3. **Mock Interviews:** Simulate real
+

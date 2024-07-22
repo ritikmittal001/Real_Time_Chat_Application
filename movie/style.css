@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+input{
+    height: 3rem;
+    width: 25rem;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+button{
+    height: 3rem;
+    width: 144px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+/* div{
+    height: 5rem;
+    width: 50rem;
+    border: 3px solid black;
+    display: flex;
+    justify-content: center;
+    margin-left: 120px;    
+    background-color: beige
+    ;
+} */
+
+.container{
+    display: flex;
+    gap: 4px;
+}
+.first{
+    color:black;
+    font-size: larger;
+    margin-bottom: 2rem;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+
+}
+.div1{
+    background-color: blueviolet;
+
+}
+
